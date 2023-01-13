@@ -1,0 +1,19 @@
+
+div.title{
+font: weight 800px;
+-webkit-text-fill-color: rgb(1, 26, 39);
+position: relative;
+top: 10px;
+}
+
+div.UploadInfo{
+
+position: relative;
+top: -15px;
+
+}
+
+div.upload{
+position: relative;
+top: -15px;
+}
